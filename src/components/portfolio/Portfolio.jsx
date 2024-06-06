@@ -4,13 +4,13 @@ import { useRef } from "react";
 
 const items = [
    {
-      id: 1, title: "react commerce", img: "/sun.png", desc: "asdfghjklöäqwertzuiop",
+      id: 1, title: "react commerce", img: "/people.webp", desc: "asdfghjklöäqwertzuiop",
    },
    {
-      id: 2, title: "next.js blog", img: "/sun.png", desc: "asdfghjklöäqwertzuiop",
+      id: 2, title: "next.js blog", img: "/people.webp", desc: "asdfghjklöäqwertzuiop",
    },
    {
-      id: 3, title: "vanilla js", img: "sun.png", desc: "asdfghjklöäqwertzuiop",
+      id: 3, title: "vanilla js", img: "people.webp", desc: "asdfghjklöäqwertzuiop",
    }
 ];
 const Single = ({ item }) => {

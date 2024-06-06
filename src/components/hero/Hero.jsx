@@ -42,7 +42,7 @@ const Hero = () => {
          <div className="wrapper">
 
             <motion.div className="textContainer" variants={textVariants} initial="initial" animate="animate">
-               <motion.h2 variants={textVariants}>HARVEY TYLER</motion.h2>
+               <motion.h2 variants={textVariants}>H Y</motion.h2>
                <motion.h1 variants={textVariants}>web developer and UI designer</motion.h1>
                <motion.div variants={textVariants} className="buttons">
                   <motion.button variants={textVariants}>hire me</motion.button>
