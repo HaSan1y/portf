@@ -1,6 +1,6 @@
 ## react+framer motion portfolio
 ```
-npm create vite@latest .               >>react>>js       no ts!      //<only do this when starting with an empty folder else npm i would instal vite
+npm create vite@latest .               >>react>>js       no ts!      
 npm i                //npm install
 npm run dev
 npm i sass
